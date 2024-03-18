@@ -1,0 +1,14 @@
+{"isSuccess":true}
+
+const rollNumber = '2110991031';
+
+const stockData = {
+  company: 'Bajaj Finserv',
+  currentPrice: 1578.45, 
+  githubRepoLink: 'https://github.com/prakirtiv/BajajTest', 
+};
+
+
+  
+    console.log('Stocks bought successfully');
+ 
