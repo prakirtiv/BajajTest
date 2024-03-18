@@ -1,0 +1,9 @@
+
+const createAccountUrl = 'https://customer-analytics-34146.my.salesforce-sites.com/services/apexrest/createAccount';
+
+const accountDetails = {
+    name: 'Prakirti Verma',
+    email: 'prakirti1031.be21@chitkara.edu.in',
+    rollNumber: 2110991031,
+    phone: '9882585607', 
+};
